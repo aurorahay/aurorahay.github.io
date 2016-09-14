@@ -1,23 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <!--Dependencies -->
-    <script src="node_modules/angular/angular.js"></script>
-    <script src="node_modules/angular-ui-router/release/angular-ui-router.js"></script>
+    <head>
+        <!--Dependencies -->
+        <script src="node_modules/angular/angular.js"></script>
+        <script src="node_modules/angular-ui-router/release/angular-ui-router.js"></script>
 
-    <!-- App -->
-    <script src="app/app.js"></script>
-    <script src="app/routes.js"></script>
-</head>
-<body>
+        <!-- Stylesheets -->
+        <link rel="stylesheet" href="app/stylesheets/hero.css" type="text/css">
 
-<div class="main" ng-app="ahay">
-    <header>
-    </header>
-    <ui-view></ui-view>
-    <footer>
-    </footer>
-</div>
+        <!-- App -->
+        <script src="app/app.js"></script>
+        <script src="app/routes.js"></script>
+        <script src="app/scrollTo/scrollTo.js"></script>
+        <script src="app/hero/hero.js"></script>
+        <script src="app/about/about.js"></script>
+    </head>
+    <body>
 
-</body>
+    <div class="main" ng-app="ahay">
+        <header>
+        </header>
+        <ui-view></ui-view>
+        <footer>
+        </footer>
+    </div>
+
+    </body>
 </html>

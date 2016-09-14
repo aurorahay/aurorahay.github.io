@@ -13,7 +13,7 @@
             $stateProvider
                 .state('/', {
                     url: "/",
-                    template: "<h1>Hello World!</hi>"
+                    templateUrl: "app/ahay.html"
                 });
         }]);
 
