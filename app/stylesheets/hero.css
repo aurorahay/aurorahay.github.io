@@ -53,15 +53,17 @@ body {
     width: 50%;
     padding: 2em;
 }
-
+/*
 .node {
   cursor: pointer;
 }
+
 
 .node:hover {
   stroke: #000;
   stroke-width: 1.5px;
 }
+*/
 
 .node--leaf {
   fill: white;

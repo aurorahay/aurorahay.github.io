@@ -2,14 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="783b41db-e8fd-4736-8c73-e0089bacb4b7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/technologies/technologies.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/technologies/technologies.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/technologies/technologies_circle_pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/MEAN-Icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/back_end/Oracle-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/back_end/Ruby_on_Rails-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/back_end/grails.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/back_end/msSQL_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/back_end/mvc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/back_end/nodejs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/back_end/rails-logo-e1458073848826.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/confluence.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/devops/ansible-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/devops/apache.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/devops/codeship_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/devops/docker-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/devops/docker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/devops/jenkins_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/devops/mahadhi-expertise-apache-tomcat.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/devops/tomcat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/front_end/AJAX_logo_by_gengns.svg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/front_end/ang_grunt_yo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/front_end/angular-2-testing-750x247.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/front_end/angular-protractor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/front_end/angular.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/front_end/angularjs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/front_end/bower.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/front_end/grunt-bower_m.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/front_end/grunt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/front_end/html_5_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/front_end/jasmine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/front_end/jquery.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/front_end/karma.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/front_end/lodash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/front_end/npm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/front_end/protractor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/front_end/yo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/game engines/libgdx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/game engines/unity-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/game engines/unityvsudk41.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/game engines/unreal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/jira.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/so-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/source control/bitbucket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/source control/git.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/source control/github.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/source control/tfs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/images/technologies_logos/front_end/lodash.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about/about.html" afterPath="$PROJECT_DIR$/app/about/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.js" afterPath="$PROJECT_DIR$/app/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/stylesheets/hero.css" afterPath="$PROJECT_DIR$/app/stylesheets/hero.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/technologies/technologies.json" afterPath="$PROJECT_DIR$/app/technologies/technologies.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/technologies/technologies_circle_pack.js" afterPath="$PROJECT_DIR$/app/technologies/technologies_circle_pack.js" />
     </list>
     <ignored path="aurorahay.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,11 +70,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/app.js">
+      <file leaf-file-name="technologies_circle_pack.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/technologies/technologies_circle_pack.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="103" selection-start-line="2" selection-start-column="103" selection-end-line="2" selection-end-column="103" />
+            <state relative-caret-position="595">
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -49,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="technologies.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/technologies/technologies.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="91" selection-start-line="5" selection-start-column="91" selection-end-line="5" selection-end-column="91" />
+            <state relative-caret-position="493">
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -62,58 +103,8 @@
       <file leaf-file-name="hero.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/stylesheets/hero.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="579">
-              <caret line="61" column="15" selection-start-line="61" selection-start-column="15" selection-end-line="61" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="technologies_circle_pack.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/technologies/technologies_circle_pack.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="technologies.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/technologies/technologies.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/about/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="technologies.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/technologies/technologies.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scrollTo.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scrollTo/scrollTo.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+            <state relative-caret-position="494">
+              <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -124,6 +115,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
               <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/about/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="40" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -159,12 +160,12 @@
         <option value="$PROJECT_DIR$/app/scrollTo/scrollTo.js" />
         <option value="$PROJECT_DIR$/app/hero/hero.html" />
         <option value="$PROJECT_DIR$/app/app.js" />
-        <option value="$PROJECT_DIR$/app/about/about.html" />
-        <option value="$PROJECT_DIR$/app/technologies/technologies.html" />
-        <option value="$PROJECT_DIR$/app/stylesheets/hero.css" />
-        <option value="$PROJECT_DIR$/app/technologies/technologies.json" />
-        <option value="$PROJECT_DIR$/app/technologies/technologies_circle_pack.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/app/technologies/technologies.html" />
+        <option value="$PROJECT_DIR$/app/about/about.html" />
+        <option value="$PROJECT_DIR$/app/technologies/technologies_circle_pack.js" />
+        <option value="$PROJECT_DIR$/app/technologies/technologies.json" />
+        <option value="$PROJECT_DIR$/app/stylesheets/hero.css" />
       </list>
     </option>
   </component>
@@ -271,24 +272,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="aurorahay.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="aurorahay.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -303,7 +286,17 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SearchEverywhereHistoryKey" value="about&#9;FILE&#9;file://D:/aurorahay.github.io/app/about/about.html&#10;index&#9;FILE&#9;file://D:/aurorahay.github.io/index.html" />
+    <property name="SearchEverywhereHistoryKey" value="hero&#9;FILE&#9;file://D:/aurorahay.github.io/app/stylesheets/hero.css&#10;about&#9;FILE&#9;file://D:/aurorahay.github.io/app/about/about.html&#10;index&#9;FILE&#9;file://D:/aurorahay.github.io/index.html" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\aurorahay.github.io\app\images\technologies_logos\devops" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\aurorahay.github.io\app\images\technologies_logos\devops" />
+      <recent name="D:\aurorahay.github.io\app\images\technologies_logos\front_end" />
+      <recent name="D:\aurorahay.github.io\app\images" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -575,7 +568,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -585,10 +578,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31914893" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31914893" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1515625" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1515625" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -791,10 +784,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/ahay.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        <state relative-caret-position="408">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -803,6 +796,80 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/images/technologies_logos/back_end/rails-logo-e1458073848826.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/images/technologies_logos/back_end/Ruby_on_Rails-logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/images/technologies_logos/front_end/ang_grunt_yo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/images/technologies_logos/front_end/jquery.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/images/technologies_logos/front_end/lodash.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/images/technologies_logos/front_end/lodash.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/images/technologies_logos/front_end/npm.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/images/technologies_logos/front_end/angular-protractor.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/images/technologies_logos/front_end/angular-2-testing-750x247.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/images/technologies_logos/devops/tomcat.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/images/technologies_logos/source control/github.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/stylesheets/hero.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/technologies/technologies.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -817,40 +884,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/about/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="0">
+          <caret line="0" column="40" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/stylesheets/hero.css">
+    <entry file="file://$PROJECT_DIR$/app/ahay.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="579">
-          <caret line="61" column="15" selection-start-line="61" selection-start-column="15" selection-end-line="61" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/technologies/technologies.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        <state relative-caret-position="17">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/technologies/technologies_circle_pack.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="91" selection-start-line="5" selection-start-column="91" selection-end-line="5" selection-end-column="91" />
+        <state relative-caret-position="595">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -5,17 +5,117 @@
       "name": "back-end",
       "children": [
         {
-          "name": "grails", "size": 3938
+          "name": "grails", "size": 2500, "url": "app/images/technologies_logos/back_end/grails.jpg"
         },
         {
-          "name": "mvc",
-          "children": [
-            {"name": "BetweennessCentrality", "size": 3534},
-            {"name": "LinkDistance", "size": 5731},
-            {"name": "MaxFlowMinCut", "size": 7840},
-            {"name": "ShortestPaths", "size": 5914},
-            {"name": "SpanningTree", "size": 3416}
-          ]
+          "name": "mvc", "size": 7000, "url": "app/images/technologies_logos/back_end/mvc.png"
+        },
+        {
+          "name": "mssql", "size": 3500, "url": "app/images/technologies_logos/back_end/msSQL_logo.png"
+        },
+        {
+          "name": "oracle", "size": 2500, "url": "app/images/technologies_logos/back_end/Oracle-logo.png"
+        },
+        {
+          "name": "rails", "size": 3500, "url": "app/images/technologies_logos/back_end/Ruby_on_Rails-logo.png"
+        },
+        {
+          "name": "nodejs", "size": 4500, "url": "app/images/technologies_logos/back_end/nodejs.png"
+        },
+        {
+          "name": "mean", "size": 4000, "url": "app/images/technologies_logos/MEAN-Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "front-end",
+      "children": [
+        {
+          "name": "angularjs", "size": 6000, "url": "app/images/technologies_logos/front_end/angular.png"
+        },
+        {
+          "name": "npm", "size": 1000, "url": "app/images/technologies_logos/front_end/npm.png"
+        },
+        {
+          "name": "bower", "size": 1000, "url": "app/images/technologies_logos/front_end/bower.png"
+        },
+        {
+          "name": "yo", "size": 1000, "url": "app/images/technologies_logos/front_end/yo.png"
+        },
+        {
+          "name": "jquery", "size": 4500, "url": "app/images/technologies_logos/front_end/jquery.jpg"
+        },
+        {
+          "name": "grunt", "size": 2000, "url": "app/images/technologies_logos/front_end/grunt.png"
+        },
+        {
+          "name": "html5", "size": 3500, "url": "app/images/technologies_logos/front_end/html_5_logo.png"
+        },
+        {
+          "name": "jasmine", "size": 4000, "url": "app/images/technologies_logos/front_end/jasmine.png"
+        },
+        {
+          "name": "karma", "size": 2000, "url": "app/images/technologies_logos/front_end/karma.png"
+        },
+        {
+          "name": "lodash", "size": 4500, "url": "app/images/technologies_logos/front_end/lodash.png"
+        },
+        {
+          "name": "protractor", "size": 3000, "url": "app/images/technologies_logos/front_end/protractor.png"
+        }
+      ]
+    },
+    {
+      "name": "devops",
+      "children": [
+        {
+          "name": "docker", "size": 2000, "url": "app/images/technologies_logos/devops/docker-logo.png"
+        },
+        {
+          "name": "apache", "size": 4500, "url": "app/images/technologies_logos/devops/apache.png"
+        },
+        {
+          "name": "codeship", "size": 1000, "url": "app/images/technologies_logos/devops/codeship_logo.png"
+        },
+        {
+          "name": "jenkins", "size": 2000, "url": "app/images/technologies_logos/devops/jenkins_logo.png"
+        },
+        {
+          "name": "tomcat", "size": 2000, "url": "app/images/technologies_logos/devops/tomcat.png"
+        },
+        {
+          "name": "ansible", "size": 3000, "url": "app/images/technologies_logos/devops/ansible-logo.png"
+        }
+      ]
+    },
+    {
+      "name": "source-control",
+      "children": [
+        {
+          "name": "git", "size": 2000, "url": "app/images/technologies_logos/source control/git.png"
+        },
+        {
+          "name": "github", "size": 5000, "url": "app/images/technologies_logos/source control/github.png"
+        },
+        {
+          "name": "bitbucket", "size": 3500, "url": "app/images/technologies_logos/source control/bitbucket.png"
+        },
+        {
+          "name": "tfs", "size": 4000, "url": "app/images/technologies_logos/source control/tfs.png"
+        }
+      ]
+    },
+    {
+      "name": "game-engines",
+      "children": [
+        {
+          "name": "libgdx", "size": 4000, "url": "app/images/technologies_logos/game engines/libgdx.png"
+        },
+        {
+          "name": "unreal", "size": 4000, "url": "app/images/technologies_logos/game engines/unreal.png"
+        },
+        {
+          "name": "unity", "size": 4000, "url": "app/images/technologies_logos/game engines/unity-logo.png"
         }
       ]
     }
