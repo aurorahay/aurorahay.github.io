@@ -11,7 +11,7 @@
         var TCP = "technologies-circle-pack";
 
         var margin = 20,
-            diameter = 960;
+            diameter = 440;
 
         var color = d3.scale.linear()
             .domain([-1, 5])
@@ -24,7 +24,7 @@
             .value(function(d) { return d.size; })
 
         var svg = d3.select(TCP).append("svg")
-            .attr("width", diameter)
+            .attr("width", "50%")
             .attr("height", diameter)
             .append("g")
             .attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
@@ -38,10 +38,8 @@
               nodes = pack.nodes(root),
               view;
 
-          angular.forEach(nodes, function(node) {
+          _.forEach(nodes, function(node) {
             if (node.url) {
-                console.log(node);
-
                 d3.select("defs").append("pattern")
                     .attr("id", node.name)
                     .attr("x", 0)
@@ -55,7 +53,6 @@
                     .attr("width", node.r * 2)
                     .attr("height", node.r * 2)
                     .attr("xlink:href", node.url);
-
             }
           });
 
@@ -74,8 +71,8 @@
                         return "url(#" + d.name + ")";
                     }
                     return d.children ? color(d.depth) : null;
-               });
-              //.on("click", function(d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); });
+               })
+              .on("click", function(d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); });
 
           var text = svg.selectAll("text")
               .data(nodes)
@@ -112,6 +109,13 @@
                 .style("fill-opacity", function(d) { return d.parent === focus ? 1 : 0; })
                 .each("start", function(d) { if (d.parent === focus) this.style.display = "inline"; })
                 .each("end", function(d) { if (d.parent !== focus) this.style.display = "none"; });
+
+             var patterns = document.getElementsByTagName("pattern");
+
+             angular.forEach(patterns, function(pattern) {
+
+             });
+
           }
 
           function zoomTo(v) {
