@@ -49,19 +49,22 @@
           "name": "grunt", "size": 2000, "url": "app/images/technologies_logos/front_end/grunt.png"
         },
         {
-          "name": "html5", "size": 3500, "url": "app/images/technologies_logos/front_end/html_5_logo.png"
+          "name": "html5", "size": 3000, "url": "app/images/technologies_logos/front_end/html_5_logo.png"
         },
         {
           "name": "jasmine", "size": 4000, "url": "app/images/technologies_logos/front_end/jasmine.png"
         },
         {
-          "name": "karma", "size": 2000, "url": "app/images/technologies_logos/front_end/karma.png"
+          "name": "karma", "size": 4000, "url": "app/images/technologies_logos/front_end/karma.png"
         },
         {
           "name": "lodash", "size": 4500, "url": "app/images/technologies_logos/front_end/lodash.png"
         },
         {
           "name": "protractor", "size": 3000, "url": "app/images/technologies_logos/front_end/protractor.png"
+        },
+        {
+          "name": "d3", "size": 3000, "url": "app/images/technologies_logos/front_end/d3.png"
         }
       ]
     },

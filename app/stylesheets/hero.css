@@ -80,3 +80,8 @@ body {
 .node--leaf {
   pointer-events: none;
 }
+
+.technologies-stack {
+    float: left;
+    width: 35%;
+}
