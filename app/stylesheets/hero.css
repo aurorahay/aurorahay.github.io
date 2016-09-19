@@ -47,13 +47,6 @@ body {
     background-color: #5e5e5e;
 }
 
-.container {
-    max-width: 1048px;
-    margin: 0 auto;
-    width: 50%;
-    padding: 2em;
-}
-
 .node {
   cursor: pointer;
 }
@@ -82,6 +75,4 @@ body {
 }
 
 .technologies-stack {
-    float: left;
-    width: 35%;
 }
