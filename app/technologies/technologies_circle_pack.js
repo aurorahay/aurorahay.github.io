@@ -11,7 +11,7 @@
         var TCP = "technologies-circle-pack";
 
         var margin = 20,
-            diameter = 440;
+            diameter = 540;
 
         var color = d3.scale.linear()
             .domain([-1, 5])
@@ -73,10 +73,11 @@
                     return d.children ? color(d.depth) : null;
                })
               .on("click", function(d) {
-                    if (!d.url) {
-                        if (focus !== d) zoom(d),
-                            d3.event.stopPropagation();
-                    }
+                  if (d.url) {
+                    d = d.parent;
+                  }
+                    if (focus !== d) zoom(d),
+                        d3.event.stopPropagation();
                 });
 
           var text = svg.selectAll("text")
@@ -109,7 +110,7 @@
             var transition = d3.transition()
                 .duration(d3.event.altKey ? 7500 : 750)
                 .tween("zoom", function(d) {
-                  var i = d3.interpolateZoom(view, [focus.x, focus.y, focus.r * 2 + margin]);
+                    var i = d3.interpolateZoom(view, [focus.x, focus.y, focus.r * 2 + margin]);
                   return function(t) {
                         zoomTo(i(t));
                     };
