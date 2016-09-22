@@ -14,8 +14,8 @@
             diameter = 540;
 
         var color = d3.scale.linear()
-            .domain([-1, 5])
-            .range(["hsl(152,80%,80%)", "hsl(228,30%,40%)"])
+            .domain([0, 1])
+            .range(["rgb(20, 20, 20)", "rgb(122, 97, 149)"])
             .interpolate(d3.interpolateHcl);
 
         var pack = d3.layout.pack()

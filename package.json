@@ -20,6 +20,7 @@
     "angular-ui-router": "~0.3.1",
     "lodash": "~4.15.0",
     "bootstrap": "~3.3.7",
-    "jquery": "~3.1.0"
+    "jquery": "~3.1.0",
+    "angular-gist": "~2.0.0"
   }
 }

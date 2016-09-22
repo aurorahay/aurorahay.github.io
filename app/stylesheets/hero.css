@@ -5,6 +5,13 @@ body {
     margin: 0;
 }
 
+.ahay-section {
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+
+/* Hero */
+
 .hero {
     width: 100%;
     height: 100vh;
@@ -47,6 +54,7 @@ body {
     background-color: #5e5e5e;
 }
 
+/* TCP */
 .node, circle {
   cursor: pointer;
 }
@@ -74,5 +82,19 @@ body {
   pointer-events: none;
 }
 
-.technologies-stack {
+/* Bootstrap nav */
+.navbar-fixed-top.opaque {
+    color: #fff;
+    background-color: rgba(0,0,0,.75);
+    transition: background-color 2s ease 0s;
+}
+
+/* Bootstrap accordion */
+.panel-heading {
+    cursor: pointer
+}
+
+/*Code Samples */
+.codesamples {
+    background-color: rgb(20, 20, 20);
 }

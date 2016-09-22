@@ -1,3 +1,44 @@
-<div id="codesamples" class="codesamples container">
-    <script src="https://gist.github.com/aurorahay/7a36fe2ab05e6364c27bc27b4817031c.js"></script>
+<div id="codesamples" class="codesamples ahay-section">
+    <div class="container">
+        <h2>Some Code Samples</h2>
+        <p>
+            Aside from this whole site being a code sample, I have a few snippets that I have written in my career that I am
+            fairly proud of.
+        </p>
+        <p>
+            They may not be the most "perfect" pieces of code, but they have rich value in that they either saved my team and I
+            quite a bit of time developing. As a side note, I try to follow the "DRY" principle, and, from these examples,
+            other patterns of design within software.
+        </p>
+        <p>
+            Please have a look, and be inspired as needed :)
+        </p>
+
+        <div id="adapter-code-sample">
+            <h3>A simple adapter (JavaScript, _.js, AngularJS)</h3>
+            <p>
+                This code sample was used to convert pretty much any JSON data set to create a D3.js line graph. The main
+                method used is "convertModelToGraphModel". That method is only about 20 lines long, but, there is a whole mess
+                of lodash.js going on to make it look simple.
+            </p>
+            <p>
+                This adapter made making line graphs a cinch when using large sets of JSON that looked completely different!
+            </p>
+
+            <div class="panel-group" id="accordion-adapter-sample">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title collapsed" data-toggle="collapse" data-target="#collapse-adapter-sample">
+                            <span class="accordion-toggle collapsed" data-toggle="collapse" data-parent="accordion-adapter-sample">
+                                Adapter Pattern Code Sample
+                            </span>
+                        </h4>
+                    </div>
+                    <div id="collapse-adapter-sample" class="panel-collapse collapse">
+                        <gist id="7a36fe2ab05e6364c27bc27b4817031c"></gist>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
