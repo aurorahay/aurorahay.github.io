@@ -10,6 +10,48 @@ body {
     padding-bottom: 3em;
 }
 
+.background-2 {
+    background-color: rgb(20, 20, 20);
+}
+
+.background-3 {
+    background-color: rgb(170, 170, 170);
+}
+
+.centered-img {
+    display: block;
+    margin: 0 auto;
+}
+
+.img-row {
+    text-align: center;
+    margin: 0 auto 2em auto;
+}
+
+.agile-6-tech.technology-row img {
+    width: 150px;
+}
+
+h3 a {
+    text-decoration: underline;
+    color: #fff;
+}
+
+h3 a:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+a {
+    text-decoration: underline;
+    color: #fff;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
 /* Hero */
 
 .hero {
@@ -96,5 +138,12 @@ body {
 
 /*Code Samples */
 .codesamples {
-    background-color: rgb(20, 20, 20);
+
+}
+
+/*Projects */
+.agile6-img {
+    background-image: url("../images/projects/agile6.jpg");
+    width: 100%;
+    height: 500px;
 }

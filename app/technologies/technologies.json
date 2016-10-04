@@ -119,6 +119,9 @@
         },
         {
           "name": "unity", "size": 4000, "url": "app/images/technologies_logos/game engines/unity-logo.png"
+        },
+        {
+          "name": "gms", "size": 4000, "url": "app/images/technologies_logos/game engines/gms.png"
         }
       ]
     }
