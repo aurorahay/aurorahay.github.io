@@ -24,6 +24,9 @@
         },
         {
           "name": "mean", "size": 4000, "url": "app/images/technologies_logos/MEAN-Icon.png"
+        },
+        {
+          "name": "postgres", "size": 5000, "url": "app/images/technologies_logos/back_end/postgres.png"
         }
       ]
     },
