@@ -6,3 +6,6 @@ It is built using AngularJS and other JavaScript based libraries.
 It is being built very, very iteratively.
 
 There will be things about me such as projects I have been on in my professional career and the technologies I have used and come to love, code samples, and side project examples.
+
+
+[![CircleCI](https://circleci.com/gh/agilesix/ADPQ.svg?style=svg)](https://circleci.com/gh/agilesix/ADPQ)
