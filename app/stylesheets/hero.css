@@ -144,6 +144,18 @@ a:hover {
 /*Projects */
 .agile6-img {
     background-image: url("../images/projects/agile6.jpg");
-    width: 100%;
+    width: 97%;
     height: 500px;
+}
+
+.meglio-img {
+    background-image: url("../images/projects/meglio.jpg");
+    width: 97%;
+    height: 346px;
+}
+
+.a2-img {
+    background-image: url("../images/projects/a2.jpg");
+    width: 97%;
+    height: 278px;
 }

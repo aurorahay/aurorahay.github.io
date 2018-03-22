@@ -8,7 +8,7 @@
           "name": "grails", "size": 2500, "url": "app/images/technologies_logos/back_end/grails.jpg"
         },
         {
-          "name": "mvc", "size": 7000, "url": "app/images/technologies_logos/back_end/mvc.png"
+          "name": "mvc", "size": 5000, "url": "app/images/technologies_logos/back_end/mvc.png"
         },
         {
           "name": "mssql", "size": 3500, "url": "app/images/technologies_logos/back_end/msSQL_logo.png"
@@ -17,7 +17,7 @@
           "name": "oracle", "size": 2500, "url": "app/images/technologies_logos/back_end/Oracle-logo.png"
         },
         {
-          "name": "rails", "size": 3500, "url": "app/images/technologies_logos/back_end/Ruby_on_Rails-logo.png"
+          "name": "rails", "size": 5500, "url": "app/images/technologies_logos/back_end/Ruby_on_Rails-logo.png"
         },
         {
           "name": "nodejs", "size": 4500, "url": "app/images/technologies_logos/back_end/nodejs.png"
@@ -75,22 +75,31 @@
       "name": "devops",
       "children": [
         {
-          "name": "docker", "size": 2000, "url": "app/images/technologies_logos/devops/docker-logo.png"
+          "name": "docker", "size": 4000, "url": "app/images/technologies_logos/devops/docker-logo.png"
         },
         {
-          "name": "apache", "size": 4500, "url": "app/images/technologies_logos/devops/apache.png"
+          "name": "apache", "size": 2500, "url": "app/images/technologies_logos/devops/apache.png"
         },
         {
           "name": "codeship", "size": 1000, "url": "app/images/technologies_logos/devops/codeship_logo.png"
         },
         {
-          "name": "jenkins", "size": 2000, "url": "app/images/technologies_logos/devops/jenkins_logo.png"
+          "name": "jenkins", "size": 1500, "url": "app/images/technologies_logos/devops/jenkins_logo.png"
         },
         {
-          "name": "tomcat", "size": 2000, "url": "app/images/technologies_logos/devops/tomcat.png"
+          "name": "tomcat", "size": 1500, "url": "app/images/technologies_logos/devops/tomcat.png"
         },
         {
-          "name": "ansible", "size": 3000, "url": "app/images/technologies_logos/devops/ansible-logo.png"
+          "name": "ansible", "size": 1000, "url": "app/images/technologies_logos/devops/ansible-logo.png"
+        },
+        {
+          "name": "circleci", "size": 4000, "url": "app/images/technologies_logos/devops/circleci.png"
+        },
+        {
+          "name": "nginx", "size": 2500, "url": "app/images/technologies_logos/devops/nginx.png"
+        },
+        {
+          "name": "aws", "size": 3500, "url": "app/images/technologies_logos/devops/aws.png"
         }
       ]
     },
@@ -125,6 +134,20 @@
         },
         {
           "name": "gms", "size": 4000, "url": "app/images/technologies_logos/game engines/gms.png"
+        },
+        {
+          "name": "rpgmaker", "size": 4000, "url": "app/images/technologies_logos/game engines/rpgmaker.png"
+        }
+      ]
+    },
+    {
+      "name": "mobile",
+      "children": [
+        {
+          "name": "android", "size": 4000, "url": "app/images/technologies_logos/mobile/android.png"
+        },
+        {
+          "name": "ios", "size": 2000, "url": "app/images/technologies_logos/mobile/ios.jpg"
         }
       ]
     }
