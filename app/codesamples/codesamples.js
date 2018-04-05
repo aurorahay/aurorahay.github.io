@@ -6,7 +6,6 @@
 
     function CodeSamplesController($scope, $location) {
         var vm = this;
-        hljs.initHighlightingOnLoad();
     }
 
     app.controller('ahay.codesamples.CodeSamplesController', CodeSamplesController);
