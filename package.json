@@ -17,10 +17,14 @@
   },
   "dependencies": {
     "angular": "~1.5.8",
+    "angular-marked": "^1.2.2",
+    "angular-sanitize": "~1.5.8",
     "angular-ui-router": "~0.3.1",
-    "lodash": "~4.15.0",
     "bootstrap": "~3.3.7",
+    "highlight.js": "^9.12.0",
     "jquery": "~3.1.0",
-    "angular-gist": "~2.0.0"
+    "lodash": "~4.15.0",
+    "markdown-it": "^8.4.1",
+    "markdown-it-highlightjs": "^3.0.0"
   }
 }

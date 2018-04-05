@@ -27,6 +27,12 @@
         },
         {
           "name": "postgres", "size": 5000, "url": "app/images/technologies_logos/back_end/postgres.png"
+        },
+        {
+          "name": "django", "size": 2500, "url": "app/images/technologies_logos/back_end/django.svg"
+        },
+        {
+          "name": "phoenix", "size": 2500, "url": "app/images/technologies_logos/back_end/phoenix.png"
         }
       ]
     },

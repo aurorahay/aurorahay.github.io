@@ -159,3 +159,7 @@ a:hover {
     width: 97%;
     height: 278px;
 }
+
+pre {
+    padding: 0;
+}
