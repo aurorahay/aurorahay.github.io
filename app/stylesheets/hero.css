@@ -143,23 +143,56 @@ a:hover {
 
 /*Projects */
 .agile6-img {
-    background-image: url("../images/projects/agile6.jpg");
+    background-image: url("../images/projects/agile6_640.gif");
     width: 97%;
-    height: 500px;
+    height: 316px;
+    background-position-x: -50px;
 }
 
 .meglio-img {
-    background-image: url("../images/projects/meglio.jpg");
+    background-image: url("../images/projects/meglio_640.gif");
     width: 97%;
-    height: 346px;
+    height: 316px;
+    background-position-x: -50px;
+}
+
+.meglio-business-img {
+    background-image: url("../images/projects/meglio_business_320.gif");
+    width: 97%;
+    height: 316px;
+    background-position-x: center;
+    background-repeat: no-repeat;
 }
 
 .a2-img {
-    background-image: url("../images/projects/a2.jpg");
+    background-image: url("../images/projects/a2_640.gif");
     width: 97%;
-    height: 278px;
+    height: 316px;
+}
+
+.i-heart-frameworks-img {
+    background-image: url("../images/projects/i_heart_frameworks_640.gif");
+    width: 97%;
+    height: 316px;
+}
+
+.acacia-img {
+    background-image: url("../images/projects/acaciaexecutiveservices_640.gif");
+    width: 97%;
+    height: 316px;
+    background-position-x: -50px;
 }
 
 pre {
     padding: 0;
+}
+
+.project-seperator {
+    margin-top: 35px;
+}
+
+@media only screen and (max-width: 575px) {
+    .technologies-circle-pack {
+        display: none;
+    }    
 }
