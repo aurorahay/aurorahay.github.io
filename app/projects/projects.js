@@ -6,6 +6,11 @@
 
     function ProjectsController($scope, $location) {
         var vm = this;
+        
+        $.fn.lightspeedBox({
+            zIndex: 1050,
+            showDownloadButton: false
+        }); 
     }
 
     app.controller('ahay.projects.ProjectsController', ProjectsController);

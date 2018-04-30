@@ -23,6 +23,10 @@ body {
     margin: 0 auto;
 }
 
+.text-align-center {
+    text-align: center;
+}
+
 .img-row {
     text-align: center;
     margin: 0 auto 2em auto;
@@ -142,8 +146,12 @@ a:hover {
 }
 
 /*Projects */
+img {
+    width: 100%;
+}
+
 .agile6-img {
-    background-image: url("../images/projects/agile6_640.gif");
+    /* background-image: url("../images/projects/agile6_640.gif"); */
     width: 97%;
     height: 316px;
     background-size: 100%;
@@ -152,7 +160,7 @@ a:hover {
 }
 
 .meglio-img {
-    background-image: url("../images/projects/meglio_640.gif");
+    /* background-image: url("../images/projects/meglio_640.gif"); */
     width: 97%;
     height: 316px;
     background-size: 100%;
@@ -161,7 +169,7 @@ a:hover {
 }
 
 .meglio-business-img {
-    background-image: url("../images/projects/meglio_business_320.gif");
+    /* background-image: url("../images/projects/meglio_business_320.gif"); */
     width: 97%;
     height: 316px;
     background-repeat: no-repeat;
@@ -169,8 +177,12 @@ a:hover {
     background-size: contain;
 }
 
+.meglio-business-img img {
+    width: 40%;
+}
+
 .a2-img {
-    background-image: url("../images/projects/a2_640.gif");
+    /* background-image: url("../images/projects/a2_640.gif"); */
     width: 97%;
     height: 316px;
     background-size: 100%;
@@ -179,7 +191,7 @@ a:hover {
 }
 
 .i-heart-frameworks-img {
-    background-image: url("../images/projects/i_heart_frameworks_640.gif");
+    /* background-image: url("../images/projects/i_heart_frameworks_640.gif"); */
     width: 97%;
     height: 316px;
     background-size: 100%;
@@ -188,7 +200,7 @@ a:hover {
 }
 
 .acacia-img {
-    background-image: url("../images/projects/acaciaexecutiveservices_640.gif");
+    /* background-image: url("../images/projects/acaciaexecutiveservices_640.gif"); */
     width: 97%;
     height: 316px;
     background-size: 100%;
