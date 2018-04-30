@@ -146,41 +146,54 @@ a:hover {
     background-image: url("../images/projects/agile6_640.gif");
     width: 97%;
     height: 316px;
-    background-position-x: -50px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .meglio-img {
     background-image: url("../images/projects/meglio_640.gif");
     width: 97%;
     height: 316px;
-    background-position-x: -50px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .meglio-business-img {
     background-image: url("../images/projects/meglio_business_320.gif");
     width: 97%;
     height: 316px;
-    background-position-x: center;
     background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: contain;
 }
 
 .a2-img {
     background-image: url("../images/projects/a2_640.gif");
     width: 97%;
     height: 316px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .i-heart-frameworks-img {
     background-image: url("../images/projects/i_heart_frameworks_640.gif");
     width: 97%;
     height: 316px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .acacia-img {
     background-image: url("../images/projects/acaciaexecutiveservices_640.gif");
     width: 97%;
     height: 316px;
-    background-position-x: -50px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 pre {
