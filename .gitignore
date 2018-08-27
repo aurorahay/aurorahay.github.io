@@ -37,3 +37,7 @@ jspm_packages
 .node_repl_history
 
 .idea/
+app/.DS_Store
+app/images/.DS_Store
+app/images/projects/.DS_Store
+node_modules/.DS_Store

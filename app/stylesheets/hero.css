@@ -221,3 +221,19 @@ pre {
         display: none;
     }    
 }
+
+.intro:after {
+    background:  #000000 url("../images/tiger-bg.jpg");
+    background-repeat: no-repeat;
+    opacity: 0.25;
+    width: inherit;
+    height: inherit;
+    margin:  auto 0;
+    padding:inherit;
+    top: 0;
+    left: 0;
+    position: absolute;
+    z-index: -1;
+    content: "";
+    min-height: 100vh;
+}
