@@ -100,7 +100,7 @@ a:hover {
 }
 
 .intro:after {
-    background:  #000000 url("../images/tiger-bg.jpg");
+    background:  #000000;
     background-repeat: no-repeat;
     opacity: 0.25;
     width: inherit;
